@@ -1,0 +1,11 @@
+name: donaldtrumptweets
+title: DonaldTrumpTweets
+account: patrickboswell
+server: shinyapps.io
+appId: 156259
+bundleId: 708328
+url: https://patrickboswell.shinyapps.io/donaldtrumptweets/
+when: 1486851766.86151
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dttweet.csv|dttweetfull.csv
